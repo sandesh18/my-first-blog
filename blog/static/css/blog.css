@@ -35,6 +35,8 @@ h1, h2, h3, h4
 .date
 {
     color: #61C3FF;
+    margin-right:20px;
+    float:right;
 }
 
 .save
@@ -52,7 +54,7 @@ h1, h2, h3, h4
 	color: #ffa85a;
 	float: right;
 	font-size: 26pt;
-	margin-right: 20px;
+	margin-right: 0px;
 }
 
 .post
